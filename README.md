@@ -7,13 +7,13 @@
 3. How? (如何運行)
 > 使用 pynput 套件，導入 keyboard 類別
 
-[keyboard Reference](https://pynput.readthedocs.io/en/latest/keyboard.html)
+參考文件：[keyboard Reference](https://pynput.readthedocs.io/en/latest/keyboard.html)
 
 ## 開發原因
 
 由於自己在玩遊戲 ([Tetris](https://tetr.io/)) 時，想要變得更強，精益求精。
 
-但無奈個人手速上有限制([個人速度紀錄](https://youtu.be/DbAZ0Zf3wJs))，總是被打敗，也在網路上看到機器人很強大 ([Tertis ZZZ_TEST](https://www.youtube.com/watch?v=IuOJPCAZPM0&ab_channel=ICLY))，故有個大膽的想法，想寫出可以像此機器人一樣的程式，來訓練自己或擊敗對手。
+但無奈個人手速上有限制 ([個人速度紀錄](https://youtu.be/DbAZ0Zf3wJs))，總是被打敗，也在網路上看到機器人很強大 ([Tertis ZZZ_TEST](https://www.youtube.com/watch?v=IuOJPCAZPM0&ab_channel=ICLY))，故有個大膽的想法，想寫出可以像此機器人一樣的程式，來訓練自己或擊敗對手。
 
 當初看到這機器人最直觀的想法，腦中想著這是怎麼做到的呢? 
 > 深度學習 (DL) 或是 某些演算法?
