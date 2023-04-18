@@ -1,5 +1,9 @@
 # keyboard_tracer
 
+###### tags: `portfolio`
+
+[keyboard_tracer HackMD 記錄](https://hackmd.io/@zz8yeJXcQYOjqL6CsPNdlg/BJLVe78io)
+
 1. What? (做什麼?)
 > 目標:製作追蹤按下鍵盤哪個按鍵，
 2. Why? (為什麼做)
